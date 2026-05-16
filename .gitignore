@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Node.js portable
+node/
+server/node/
+node.zip
+server/node.zip
+
+# Database
+server/task-manager.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
